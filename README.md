@@ -1,5 +1,5 @@
 # Hello 👋  I'm Veiy Sokheng
-**`Website Developer`** <br/>
+**`Website Developer`** <br/> **`UX/UI Designer`** <br/>
 <br/>
 👨🏽‍💻 My name is Veiy Sokheng and I am a third year student at [Royal University of Phnom Penh](https://rupp.edu.kh/) . I am pursuing a degree in IT Engineering, with a passion for program development. Throughout my academic journey, I have been dedicated to achieving academic excellence and expanding my knowledge and skill set.
 
