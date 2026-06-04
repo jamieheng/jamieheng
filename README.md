@@ -1,5 +1,5 @@
 # Hello 👋  I'm Veiy Sokheng
-**`Entrepreneur`** <br/>  **`Digital Marketing Executive`** <br/> **`Website Developer`** <br/> **`UX/UI Designer`** <br/>
+**`Entrepreneur`** <br/>  **`Digital Marketing Executive`** <br/> **`Full Developer`** <br/> **`UX/UI Designer`** <br/>
 <br/>
 👨🏽‍💻 I don’t just build products; I build businesses.
 
