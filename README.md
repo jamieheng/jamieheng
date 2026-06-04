@@ -1,8 +1,21 @@
 # Hello 👋  I'm Veiy Sokheng
-**`Website Developer`** <br/> **`UX/UI Designer`** <br/>
+**`Entrepreneur`** <br/>  **`Digital Marketing Executive`** <br/> **`Website Developer`** <br/> **`UX/UI Designer`** <br/>
 <br/>
-👨🏽‍💻 My name is Veiy Sokheng and I am a third year student at [Royal University of Phnom Penh](https://rupp.edu.kh/) . I am pursuing a degree in IT Engineering, with a passion for program development. Throughout my academic journey, I have been dedicated to achieving academic excellence and expanding my knowledge and skill set.
+👨🏽‍💻 I don’t just build products; I build businesses.
 
+With a background spanning Full Stack Development and AI-driven Digital Marketing, I specialize in taking ideas from code to market with maximum efficiency. I bridge the gap between technical execution and business growth, helping owners reduce costs and save time.
+
+How I drive value:
+
+Rapid Prototyping: I write clean, scalable code to turn business concepts into functional products (Next.js, Node.js, MongoDB).
+
+AI-Efficiency: I leverage AI to automate content production—handling design, photoshoots, and video—to slash traditional marketing costs.
+
+Data-Driven Growth: I use AI to analyze campaign performance, ensuring every marketing dollar is spent effectively.
+
+Business Validation: I specialize in testing ideas quickly, iterating based on user feedback, and finding product-market fit.
+
+Whether I'm leading product strategy as a Co-Founder or optimizing campaigns as a Marketing Specialist, my goal is always the same: building smarter, faster, and leaner.
 
 
 # 💻 Tech Stack
